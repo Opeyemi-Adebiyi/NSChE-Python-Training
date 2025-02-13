@@ -1,0 +1,16 @@
+Employee_ID,Name,Age,Department,Salary,Experience,Location
+101,John Doe,35.0,Finance,75000.0,10.0,New York
+102,Jane Smith,29.0,IT,82000.0,7.0,San Francisco
+103,Samuel Johnson,,HR,58000.0,5.0,Chicago
+104,Emily Davis,42.0,Marketing,91000.0,15.0,Los Angeles
+105,Michael Brown,50.0,Operations,,20.0,New York
+106,Jessica Wilson,27.0,Finance,67000.0,,Chicago
+107,David Martinez,39.0,IT,88000.0,12.0,
+108,Sarah Lee,,HR,62000.0,6.0,San Francisco
+109,William Taylor,45.0,Marketing,95000.0,18.0,Los Angeles
+110,Olivia Anderson,30.0,Operations,72000.0,8.0,Chicago
+111,,36.0,Finance,81000.0,11.0,New York
+112,Ethan Thomas,33.0,,77000.0,9.0,San Francisco
+113,Sophia Hernandez,28.0,HR,60000.0,5.0,Chicago
+114,James Scott,41.0,Marketing,,14.0,Los Angeles
+115,Mia King,,Operations,73000.0,7.0,New York
